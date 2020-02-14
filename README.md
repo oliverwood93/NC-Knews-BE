@@ -3,11 +3,15 @@
 This project is a RESTful Application Programming Interface (API) that utilises http methodologies in order to retrieve, edit, add or delete articles, topics, comments and users from a generated news based database.
 
 To see the front-end project that cosumes this app, follow link:
+```
 https://github.com/oliverwood93/NC-Knews-BE 
+```
 
 To see the hosted api/database and hosted front-end, follow links:
+```
 https://oliverwood-news-api.herokuapp.com/api 
 https://daily-object-news.netlify.com/ 
+```
 
 
 ## Getting Started
